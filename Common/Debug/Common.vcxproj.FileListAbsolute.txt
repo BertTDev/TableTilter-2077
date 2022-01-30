@@ -1,0 +1,6 @@
+C:\Uni\Games Engineering Code\game-engineering-codebase\Win32\Debug\Common.pdb
+C:\Uni\Games Engineering Code\game-engineering-codebase\Common\Debug\Common.pdb
+C:\Uni\Games Engineering Code\8503 Release\Win32\Debug\Common.pdb
+C:\Uni\Games Engineering Code\8503 Release\Common\Debug\Common.pdb
+C:\Users\berti\Documents\portfoliostuff\CSC8503\Win32\Debug\Common.pdb
+C:\Users\berti\Documents\portfoliostuff\CSC8503\Common\Debug\Common.pdb
